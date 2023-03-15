@@ -3,3 +3,5 @@ deps/
 docs/
 sidle
 sidle-test
+output/
+example.json
