@@ -1,3 +1,3 @@
-# PROJECT_NAME
+# Simple Image Description Language Evaluator
 
-PROJECT_BRIEF
+A DSL for generating programmer art
